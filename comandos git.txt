@@ -1,0 +1,8 @@
+git status - mostra a situação em que os arquivos se encontram no repositório;
+git add - adiciona uma alteração à área de staging;
+git commit - confirma alterações que estão no staging;
+git push - envia conteúdo do repositório local para o remoto;
+git checkout - alternar entre branch's, além de criar novas também;
+git merge - permite unificar uma branch com outra;
+git pull - puxa conteúdo do repositório remoto para o local;
+git remote - permite criar a ligação entre o repositório remoto com o local.
